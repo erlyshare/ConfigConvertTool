@@ -1,0 +1,3 @@
+[submodule "slpp"]
+	path = slpp
+	url = https://github.com/changnet/slpp.git

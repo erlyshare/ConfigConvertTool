@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+<cfg_array_example1>
+   <item index="0">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">从小城镇</desc>
+      <id type="int64">1001</id>
+      <level type="int64">88</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">1</sub_level>
+   </item>
+   <item index="1">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1001</id>
+      <level type="int64">88</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">2</sub_level>
+   </item>
+   <item index="2">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1001</id>
+      <level type="int64">89</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">89</sub_level>
+   </item>
+   <item index="3">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1001</id>
+      <level type="int64">88</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos2</str>
+      <sub_level type="number">88.9</sub_level>
+   </item>
+   <item index="4">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1001</id>
+      <level type="int64">89</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos2</str>
+      <sub_level type="number">89</sub_level>
+   </item>
+   <item index="5">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">901</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1002</id>
+      <level type="int64">88</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">88</sub_level>
+   </item>
+   <item index="6">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1002</id>
+      <level type="int64">89</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">89</sub_level>
+   </item>
+   <item index="7">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">901</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1002</id>
+      <level type="int64">90</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">90</sub_level>
+   </item>
+   <item index="8">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">901</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1002</id>
+      <level type="int64">88</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos2</str>
+      <sub_level type="number">88</sub_level>
+   </item>
+   <item index="9">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">900</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1002</id>
+      <level type="int64">89</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos2</str>
+      <sub_level type="number">89</sub_level>
+   </item>
+   <item index="10">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">901</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1002</id>
+      <level type="int64">90</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos2</str>
+      <sub_level type="number">90</sub_level>
+   </item>
+   <item index="11">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">902</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1003</id>
+      <level type="int64">85</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">85</sub_level>
+   </item>
+   <item index="12">
+      <attr>
+         <item index="0">
+            <item index="0" type="int64">1</item>
+            <item index="1" type="int64">700</item>
+         </item>
+         <item index="1">
+            <item index="0" type="int64">2</item>
+            <item index="1" type="int64">800</item>
+         </item>
+         <item index="2">
+            <item index="0" type="int64">3</item>
+            <item index="1" type="int64">903</item>
+         </item>
+      </attr>
+      <desc type="string">有钱就可以买</desc>
+      <id type="int64">1004</id>
+      <level type="int64">80</level>
+      <name type="string">黑切+蓝盾</name>
+      <str type="string">pos1</str>
+      <sub_level type="number">80</sub_level>
+   </item>
+</cfg_array_example1>
